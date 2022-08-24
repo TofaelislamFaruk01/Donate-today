@@ -1,0 +1,40 @@
+.donate-now{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding-top: 50px;
+        padding-bottom: 100px;
+    
+    
+
+}
+.anchor-button{
+    text-decoration: none;
+        background: linear-gradient(45deg, lightsalmon, tomato);
+        padding: 10px 40px;
+        border-radius: 5px;
+        
+        font-weight: 700;
+}
+.centralize{
+    text-align: center;
+}
+.donate-today{
+    color: black;
+}
+.block{
+    display: inline-flex;
+    font-weight: 700;
+   
+}
+.common{
+    background-color: antiquewhite;
+    padding: 30px;
+    margin: 10px;  
+}
+#taka{
+    background-color: rgba(223, 36, 126, 0.544);
+        padding: 30px;
+        margin: 10px;
+}
