@@ -77,3 +77,13 @@ footer{
     font-family: 'Poppins', sans-serif;
     
 }
+.experience-area div {
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+}
+#full-stack {
+    border-left: 7px solid tomato;
+}
+h3{
+    color: blueviolet;
+}
