@@ -66,3 +66,14 @@
 #ic6 {
     background-color: lightcyan;
 }
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+#footer-text{
+    color:lightcoral;
+    font-family: 'Poppins', sans-serif;
+    
+}
