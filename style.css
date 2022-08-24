@@ -87,3 +87,16 @@ footer{
 h3{
     color: blueviolet;
 }
+.emailpart{
+    background-color: bisque;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.button{
+    text-decoration: none;
+        background: linear-gradient(45deg, lightsalmon, tomato);
+        
+        padding: 10px;
+        color: aliceblue;
+        font-weight: 700;
+}
