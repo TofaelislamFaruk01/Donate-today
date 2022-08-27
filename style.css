@@ -5,10 +5,16 @@
     color: white;
     padding-top: 50px;
         padding-bottom: 100px;
-    
-    
+        
+}
+#firstandfooter{
+    color: aliceblue;
 
 }
+p{
+    color: black;
+}
+
 .anchor-button{
     text-decoration: none;
         background: linear-gradient(45deg, lightsalmon, tomato);
@@ -16,6 +22,7 @@
         border-radius: 5px;
         color: aliceblue;
         font-weight: 700;
+        
 }
 .centralize{
     text-align: center;
@@ -87,10 +94,14 @@ footer{
 h3{
     color: blueviolet;
 }
-.emailpart{
+.emailpart {
     background-color: bisque;
     padding-top: 50px;
     padding-bottom: 50px;
+    margin-bottom: 20px;
+}
+#email{
+    padding:9px 15px ;
 }
 .button{
     text-decoration: none;
@@ -99,4 +110,7 @@ h3{
         padding: 10px;
         color: aliceblue;
         font-weight: 700;
+}
+#amounttaka{
+    padding: 7px 210px;
 }
