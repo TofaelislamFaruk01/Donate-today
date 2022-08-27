@@ -29,6 +29,8 @@ p{
 }
 .donate-today{
     color: black;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .block{
     display: inline-flex;
@@ -113,4 +115,28 @@ h3{
 }
 #amounttaka{
     padding: 7px 210px;
+}
+.contribute_area{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.contribute_area img {
+    width: 100%;
+}
+#areatext{
+    padding-bottom: 20px;
+   
+}
+.my-updates{
+    padding: 30px;
 }
